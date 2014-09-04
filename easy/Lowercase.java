@@ -25,7 +25,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Main {
+public class Lowercase {
 
     public static void main(String[] args) {
         File file = new File(args[0]);
